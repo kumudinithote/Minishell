@@ -1,6 +1,4 @@
 Kumudini Sharad Thote
-B00809863
-
 
 Commands to compile and run the code:
 
