@@ -1,0 +1,4 @@
+all:
+	gcc -o osprogram1 osprogram1.c
+	./osprogram1
+	
